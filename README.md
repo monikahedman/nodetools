@@ -17,4 +17,3 @@ Prepends "OUT_" to the name of the node if that is not already included in the n
 ** Filename: ctrl_format.py**
 Names the node CTRL and makes it a yellow circle. If a node already exists with that name, a counter is appended.
 ![alt text](https://github.com/monikahedman/nodetools/blob/main/images/ctrl.jpg?raw=true)
-![alt text](https://github.com/monikahedman/nodetools/blob/main/images/ctrl.jpg?raw=true)
