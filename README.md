@@ -9,7 +9,12 @@ Because this project is ongoing, I will later be adding in functionality to make
 
 ## Tool List
 ### OUT Null Node Formatting
+** Filename: out_format.py**
 Prepends "OUT_" to the name of the node if that is not already included in the name. Changes the node to a "pointy" shape and makes it red. If a node already exists with that name, a counter is appended.
+![alt text](https://github.com/monikahedman/nodetools/blob/main/images/out.jpg?raw=true)
 
 ### Controller Formatting
+** Filename: ctrl_format.py**
 Names the node CTRL and makes it a yellow circle. If a node already exists with that name, a counter is appended.
+![alt text](https://github.com/monikahedman/nodetools/blob/main/images/ctrl.jpg?raw=true)
+![alt text](https://github.com/monikahedman/nodetools/blob/main/images/ctrl.jpg?raw=true)
